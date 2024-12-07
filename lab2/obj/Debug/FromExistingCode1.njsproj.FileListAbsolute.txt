@@ -1,0 +1,3 @@
+C:\Users\trifo\Downloads\Telegram Desktop\web-application-main\lab 1\obj\Debug\FromExistingCode1.njsproj.AssemblyReference.cache
+C:\Users\trifo\Downloads\Telegram Desktop\web-application-main\lab 1\obj\Debug\FromExistingCode1.njsproj.CoreCompileInputs.cache
+C:\Users\trifo\Downloads\Telegram Desktop\web-application-main\lab 1\bin\Microsoft.NodejsTools.WebRole.dll

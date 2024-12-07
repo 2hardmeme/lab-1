@@ -1,0 +1,21 @@
+<section class="py-5" style="background-color: #f4f0fa;">
+	<div class="container">
+		<h1 class="text-center mb-4 text-primary" style="color: #6a0dad;">Блог про психологію</h1>
+		<div class="d-flex justify-content-end mb-3">
+			<a class="btn" style="background-color: #6a0dad; color: white;" href="/new">Додати пораду</a>
+		</div>
+		<div class="list-group">
+			<% tips.forEach(tip => { %>
+			<a href="/item/"
+				<%= tip.id %>" class="list-group-item list-group-item-action shadow-sm mb-3" style="border-color: #6a0dad;">
+				<h5 class="mb-1" style="color: #6a0dad;">
+					<%= tip.title %>
+				</h5>
+				<p class="mb-0" style="color: #4b0082;">
+					<%= tip.description %>
+				</p>
+			</a>
+			<% }); %>
+		</div>
+	</div>
+</section>
