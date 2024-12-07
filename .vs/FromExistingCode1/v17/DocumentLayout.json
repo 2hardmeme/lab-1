@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\trifo\\Downloads\\Telegram Desktop\\web-application-main\\lab 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BD8146F-0A61-4E4C-803A-C81005D2C0DD}|FromExistingCode1.njsproj|C:\\Users\\trifo\\Downloads\\Telegram Desktop\\web-application-main\\lab 1\\views\\layouts\\layout.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7BD8146F-0A61-4E4C-803A-C81005D2C0DD}|FromExistingCode1.njsproj|solutionrelative:views\\layouts\\layout.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BD8146F-0A61-4E4C-803A-C81005D2C0DD}|FromExistingCode1.njsproj|C:\\Users\\trifo\\Downloads\\Telegram Desktop\\web-application-main\\lab 1\\views\\about.ejs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7BD8146F-0A61-4E4C-803A-C81005D2C0DD}|FromExistingCode1.njsproj|solutionrelative:views\\about.ejs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD8146F-0A61-4E4C-803A-C81005D2C0DD}|FromExistingCode1.njsproj|C:\\Users\\trifo\\Downloads\\Telegram Desktop\\web-application-main\\lab 1\\views\\layouts\\layout.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7BD8146F-0A61-4E4C-803A-C81005D2C0DD}|FromExistingCode1.njsproj|solutionrelative:views\\layouts\\layout.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BD8146F-0A61-4E4C-803A-C81005D2C0DD}|FromExistingCode1.njsproj|C:\\Users\\trifo\\Downloads\\Telegram Desktop\\web-application-main\\lab 1\\models\\Blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "layout.ejs",
               "DocumentMoniker": "C:\\Users\\trifo\\Downloads\\Telegram Desktop\\web-application-main\\lab 1\\views\\layouts\\layout.ejs",
               "RelativeDocumentMoniker": "views\\layouts\\layout.ejs",
@@ -154,13 +154,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "about.ejs",
               "DocumentMoniker": "C:\\Users\\trifo\\Downloads\\Telegram Desktop\\web-application-main\\lab 1\\views\\about.ejs",
               "RelativeDocumentMoniker": "views\\about.ejs",
-              "ToolTip": "C:\\Users\\trifo\\Downloads\\Telegram Desktop\\web-application-main\\lab 1\\views\\about.ejs",
-              "RelativeToolTip": "views\\about.ejs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ToolTip": "C:\\Users\\trifo\\Downloads\\Telegram Desktop\\web-application-main\\lab 1\\views\\about.ejs*",
+              "RelativeToolTip": "views\\about.ejs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-07T14:41:09.816Z",
               "EditorCaption": ""
