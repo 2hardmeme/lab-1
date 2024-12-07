@@ -1,0 +1,22 @@
+<section class="py-5" style="background-color: #f4f0fa;">
+	<div class="container">
+		<h1 class="text-center mb-4 text-primary" style="color: #6a0dad;">Додати новий запис</h1>
+		<a class="btn btn-outline-secondary mb-4" style="border-color: #6a0dad; color: #6a0dad;" href="/">Повернутися на головну</a>
+		<div class="card shadow-lg border-0">
+			<div class="card-body" style="background-color: #e8e2f6;">
+				<form action="/new" method="POST">
+					<div class="mb-3">
+						<label for="title" class="form-label" style="color: #6a0dad;">Заголовок:</label>
+						<input type="text" class="form-control" id="title" name="title" style="border-color: #6a0dad;" required="">
+                    </div>
+					<div class="mb-3">
+						<label for="description" class="form-label" style="color: #6a0dad;">Опис:</label>
+						<textarea class="form-control" id="description" name="description" rows="5" style="border-color: #6a0dad;" required=""></textarea>
+					</div>
+					<button type="submit" class="btn" style="background-color: #6a0dad; color: white;">Додати</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
+
